@@ -1,18 +1,14 @@
-# CVCS-Computer-Vision-and-Cognitive-Systems
+# NanoChimera
 
-## Description 
+NanoChimera is a lightweight Vision-Language Model (VLM) developed as part of the **Computer Vision and Cognitive Systems** course at the University of Padua.
 
-UniPD - DS Computer Vision and Cognitive Systems Subject 2025-2026 Q1. Exploring computer vision algorithms and  deployment of cognitive systems through Cloud providers.
+This repository contains a cleaned-up and shorter version of the original project, keeping only the main Jupyter notebook for better readability.
 
+## Authors
 
-##  Contents
+- **Adrian Seidl**
+- **Walter Troiani**
 
-The repository is structured as follows:
-- 
+## Original Repository
 
-## TODO
-
-Logo contest ideas:
-- Weigthed K reranking 
-- Geometrical verification
-- Try different matchers?
+[eZWALT/CVCS-Computer-Vision-and-Cognitive-Systems](https://github.com/eZWALT/CVCS-Computer-Vision-and-Cognitive-Systems)
